@@ -1,0 +1,64 @@
+#pupeyes{
+  height: 100px; 
+  position: relative;
+  top: 6%;
+  left: 45%;
+}
+body {
+    background-color: #ECF0F1;
+  }
+  
+  h1 {
+    color: #5087be;
+    font-size: 45px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+    
+  }
+  
+  p {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+  }
+  h2{
+    color: #34495E;
+    font-size: px;
+    text-align: left;
+  }
+#pages {
+  text-align: right;
+  color:rgb(70, 141, 229);
+  font-family: Georgia, Times, 'Times New Roman', serif;
+  font-size: 19px;
+}
+#video{
+text-align: center;
+}
+h3{
+  color: #34495E;
+    font-size: 20px;
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+img {
+height: 600px;
+position: relative;
+
+}
+h6 {
+  background-color: rgb(96, 152, 198);
+  font-size: 20px;
+  text-align: right;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+}
+p.hidden {border-style: hidden;
+  size: 15px;
+}
+#tableauPlaceholder{
+  position:relative;
+  left: 45%;
+}
+
